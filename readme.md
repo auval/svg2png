@@ -9,6 +9,11 @@ Manage your Icons in SVG and generate the needed PNG into your projects as neede
 * You have to have Java 8 installed on your PC
 * Sidenote: [Google Android Icons](https://www.google.com/design/icons/)
 
+## Source SVG image
+
+* make your source svg document size 48x48 pixels
+* name it the same as you want your png resources to be
+
 ## CLI Samples
 
 ```Shell
